@@ -1,0 +1,41 @@
+Title: Video 1 - Research Evolution and AI-Output Check
+Speaker: Buy-Side Equity Research Analyst (Author)
+Target: Microsoft Corporation (NASDAQ: MSFT)
+As-Of Date: September 23, 2026
+Duration: 02:40 (Strict Enforced Cap: 03:00)
+Brightspace Checkpoint Receipt: FIN439-FA26-P1-EA-083125-992174
+Screen Setup: Research-Evolution.pdf open on screen at Fit Width with webcam overlay in the corner.
+
+[SCREEN SETUP: Open Research-Evolution.pdf to Page 1 at Fit Width. Ensure webcam overlay is active in the top-right corner.]
+
+[00:00 - 00:25] Introduction & Edition A Baseline
+[ACTION: Use mouse cursor to highlight the Brightspace Receipt identifier at the top of Page 1]
+Hi everyone. I am the equity research analyst presenting my valuation of Microsoft Corporation. In my Edition A baseline, submitted under Brightspace receipt FIN439-FA26-P1-EA-083125-992174 before any project-specific generative AI use, I recommended a preliminary call of Watch / Defer.
+
+[SCROLL ACTION: Scroll down Page 1 to Section 1, Item 3: Initial Thesis and Item 4: Known Evidence]
+My initial thesis was that Microsoft is a premier cloud leader, but its massive CapEx ramp—accelerating past 44 billion dollars and approaching 65 billion—could weigh heavily on free cash flow and compress gross margins. At that stage, my analysis was largely qualitative. Working capital was unmodeled, leases were unanalyzed, and I lacked an articulated financial engine to test whether cloud growth could overcome that reinvestment drag.
+
+[SCROLL ACTION: Scroll smoothly through Page 2, briefly passing Item 5 Synthetic Bridge Check ($8.20) and Item 8 Initial Research Plan]
+
+[00:26 - 01:15] Evolution to Edition B & The A-to-B Change Table
+[SCROLL ACTION: Scroll down to Page 3, highlighting the Section 2 Dated Correction Addendum and pausing at Section 3: Edition B]
+Moving to Edition B, my recommendation remained Watch / Defer, but the evidentiary foundation transformed completely through my own three-statement pro-forma modeling.
+
+[SCROLL ACTION: Scroll slowly through the A-to-B Evidence Table across Pages 3 and 4, hovering cursor over each row: Thesis, Data, Model, and Risk]
+Looking at the A-to-B table: First, on data, I moved from headline numbers to Microsoft's audited FY2025 Form 10-K, pulling Note 8 operating leases of 18.5 billion dollars as debt-like claims, and Note 7 property depreciation schedules. Second, on model design, I discovered Microsoft's true operating engine: Short-Term Unearned Revenue of 64.6 billion dollars, or 22.9 percent of revenue. Because enterprise customers prepay for cloud contracts at zero percent interest, this generates 8.4 to 13.7 billion dollars in annual cash inflow, internally funding about twenty percent of Microsoft's 65 billion dollar annual CapEx bill.
+
+[01:16 - 02:05] Independent Check on Material AI Output (Audited Rejections)
+[SCROLL ACTION: Scroll down Page 4 to Section 4, Item 2: Discovering Microsoft's Real Financial Engine]
+Throughout this project, I used AI as a coding assistant, but I never let the machine own the finance judgment.
+
+[SCROLL ACTION: Scroll to Page 5, hovering cursor directly over Item 4: Auditing and Rejecting AI Suggestions]
+When Codex scaffolded the initial balance sheet, it attempted to force-fit an auto dealership template using Floor Plan Debt to balance liabilities. I audited Microsoft's Form 10-K balance sheet on page 61. Microsoft carries zero floor-plan debt. I rejected that AI suggestion immediately and replaced it with Microsoft's audited Unearned Revenue float.
+
+In peer selection, GPT-4o suggested Nvidia and Apple. I audited both against my pre-declared Peer Policy and rejected them—Nvidia is a semiconductor chip maker and Apple is a consumer OEM. I qualified Alphabet and Oracle instead.
+
+[02:06 - 02:40] Method Disagreement, Reversal Triggers & Final Recommendation
+[SCROLL ACTION: Scroll up slightly on Page 5 to Item 3: Reconciling Why Valuation Methods Disagree]
+This explains why these valuation methods disagree: peer multiples price accounting earnings at 39.9 times, suggesting 544 dollars, while my DCF subtracts physical datacenter cash CapEx, yielding 316 dollars and 63 cents. I never average them—the cash drag is the entire message.
+
+[SCROLL ACTION: Scroll down to Page 6, pointing cursor at Item 6: Final Stance and Observable Reversal Triggers]
+At today's 500 dollar market price, Microsoft trades at a 58 percent premium to intrinsic cash value. My recommendation to the committee is to commit zero capital today, maintain Watch / Defer, and re-evaluate when Microsoft files its Q1 Form 10-Q in October. Thank you.
